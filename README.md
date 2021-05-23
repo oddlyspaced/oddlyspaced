@@ -2,4 +2,5 @@
 
 ![Hardik's top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oddlyspaced&exclude_repo=dt_laurel_sprout,dt_laurel_sprout_oss,vt_laurel_sprout,vt_laurel_sprout_oss,shrp_xiaomi_laurel_sprout,oddlyspaced.github.io,gims-dump)
 
+Viewer Count :
  ![Visitor Count](https://profile-counter.glitch.me/{oddlyspaced}/count.svg)
