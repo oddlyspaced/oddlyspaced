@@ -6,3 +6,7 @@ Viewer Count :
  ![Visitor Count](https://profile-counter.glitch.me/{oddlyspaced}/count.svg)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oddlyspaced&theme=github-light&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+![Hardik's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oddlyspaced&layout=compact&theme=github-light)
+
+[![wakatime](https://wakatime.com/badge/user/a564db8d-7097-4297-8530-53834996d970.svg)](https://wakatime.com/@a564db8d-7097-4297-8530-53834996d970)
