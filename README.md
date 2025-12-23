@@ -5,4 +5,4 @@
 Viewer Count :
  ![Visitor Count](https://profile-counter.glitch.me/{oddlyspaced}/count.svg)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=oddlyspaced&theme=github-light)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-jwt5ie3ue-oddlyspaceds-projects.vercel.app?user=oddlyspaced&theme=github-light)](https://git.io/streak-stats)
